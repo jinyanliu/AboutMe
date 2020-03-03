@@ -2,17 +2,12 @@
     <string name="app_name">About Me</string>
     <string name="name">Jinyan Liu</string>
     <string name="yellow_star">star</string>
-    <string name="bio">Hi, my name is Aleks.
-\n\nI love fish.
-\n\nThe kind that is alive and swims around in an aquarium or river, or a lake, and definitely the ocean.
-\nFun fact is that I have several aquariums and also a river.
-\n\nI like eating fish, too. Raw fish. Grilled fish. Smoked fish. Poached fish - not so much.
-\nAnd sometimes I even go fishing.
-\nAnd even less sometimes, I actually catch something.
-\n\nOnce, when I was camping in Canada, and very hungry, I even caught a large salmon with my hands.
-\n\nI\'ll be happy to teach you how to make your own aquarium.
-\nYou should ask someone else about fishing, though.\n\n
-    </string>
+    <string name="bio">Intermediate Android Developer, with 2 years working experience at a company with 200+ million users base.
+\nGoogle certified Associate Android Developer with published app.
+\n1000+ GitHub commits and strong design background.
+\nTruecaller’s blog about me: \n<a href="https://truecaller.blog/2019/08/23/meet-jinyan-junior-software-developer-truecaller/">MEET JINYAN, JUNIOR SOFTWARE DEVELOPER AT TRUECALLER</a></string>
     <string name="what_is_your_nickname">What is your nick name?</string>
     <string name="done">Done</string>
+
+    <string name="messageWithLink">This is a message with a link inside!\n<a href="https://www.google.com/">Tap here to open it!</a></string>
 </resources>
